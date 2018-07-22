@@ -286,12 +286,12 @@ header.masthead .intro-text .intro-heading {
 #portfolio .portfolio-item .portfolio-caption {
   max-width: 300px;
   margin: 0 auto;
-  padding: 25px;
+  padding: 10px;
   text-align: center;
   background-color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
+#portfolio .portfolio-item .portfolio-caption h5 {
   margin: 0;
   text-transform: none;
 }
@@ -393,6 +393,60 @@ header.masthead .intro-text .intro-heading {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
   background-color: #212529;
+}
+
+.portfolio-modal .modal-backdrop {
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+}
+
+.portfolio-modal .sim {
+  background-image: url(/img/portfolio/bg/01-sim.png);
+}
+
+.portfolio-modal .cert {
+  background-image: url(/img/portfolio/bg/02-cert.png);
+}
+
+.portfolio-modal .acronym {
+  background-image: url(/img/portfolio/bg/03-acronym.png);
+}
+
+.portfolio-modal .neuro {
+  background-image: url(/img/portfolio/bg/04-neuro.png);
+}
+
+.portfolio-modal .path {
+  background-image: url(/img/portfolio/bg/05-path.png);
+}
+
+.portfolio-modal .agile {
+  background-image: url(/img/portfolio/bg/06-agile.png);
+}
+
+.portfolio-modal .talent {
+  background-image: url(/img/portfolio/bg/07-talent.png);
+}
+
+.portfolio-modal .hiring {
+  background-image: url(/img/portfolio/bg/08-hiring.png);
+}
+
+.portfolio-modal .impact {
+  background-image: url(/img/portfolio/bg/09-impact.png);
+}
+
+.portfolio-modal .experience {
+  background-image: url(/img/portfolio/bg/10-experience.png);
+}
+
+.portfolio-modal .behavior {
+  background-image: url(/img/portfolio/bg/11-behavior.png);
+}
+
+.portfolio-modal .analytics {
+  background-image: url(/img/portfolio/bg/12-analytics.png);
 }
 
 .timeline {
