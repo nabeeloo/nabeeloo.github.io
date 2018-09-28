@@ -315,6 +315,26 @@ header.masthead .intro-text .intro-heading {
 
 .portfolio-modal {
   padding-right: 0px !important;
+  /*
+  .modal-backdrop {
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+  }
+
+  .sim { background-image: url(/img/portfolio/bg/01-sim.png); }
+  .cert { background-image: url(/img/portfolio/bg/02-cert.png); }
+  .acronym { background-image: url(/img/portfolio/bg/03-acronym.png); }
+  .neuro { background-image: url(/img/portfolio/bg/04-neuro.png); }
+  .path { background-image: url(/img/portfolio/bg/05-path.png); }
+  .agile { background-image: url(/img/portfolio/bg/06-agile.png); }
+  .talent { background-image: url(/img/portfolio/bg/07-talent.png); }
+  .hiring { background-image: url(/img/portfolio/bg/08-hiring.png); }
+  .impact { background-image: url(/img/portfolio/bg/09-impact.png); }
+  .experience { background-image: url(/img/portfolio/bg/10-experience.png); }
+  .behavior { background-image: url(/img/portfolio/bg/11-behavior.png); }
+  .analytics { background-image: url(/img/portfolio/bg/12-analytics.png); }
+*/
 }
 
 .portfolio-modal .modal-dialog {
@@ -393,60 +413,6 @@ header.masthead .intro-text .intro-heading {
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
   background-color: #212529;
-}
-
-.portfolio-modal .modal-backdrop {
-  background-repeat: no-repeat;
-  background-attachment: local;
-  background-size: cover;
-}
-
-.portfolio-modal .sim {
-  background-image: url(/img/portfolio/bg/01-sim.png);
-}
-
-.portfolio-modal .cert {
-  background-image: url(/img/portfolio/bg/02-cert.png);
-}
-
-.portfolio-modal .acronym {
-  background-image: url(/img/portfolio/bg/03-acronym.png);
-}
-
-.portfolio-modal .neuro {
-  background-image: url(/img/portfolio/bg/04-neuro.png);
-}
-
-.portfolio-modal .path {
-  background-image: url(/img/portfolio/bg/05-path.png);
-}
-
-.portfolio-modal .agile {
-  background-image: url(/img/portfolio/bg/06-agile.png);
-}
-
-.portfolio-modal .talent {
-  background-image: url(/img/portfolio/bg/07-talent.png);
-}
-
-.portfolio-modal .hiring {
-  background-image: url(/img/portfolio/bg/08-hiring.png);
-}
-
-.portfolio-modal .impact {
-  background-image: url(/img/portfolio/bg/09-impact.png);
-}
-
-.portfolio-modal .experience {
-  background-image: url(/img/portfolio/bg/10-experience.png);
-}
-
-.portfolio-modal .behavior {
-  background-image: url(/img/portfolio/bg/11-behavior.png);
-}
-
-.portfolio-modal .analytics {
-  background-image: url(/img/portfolio/bg/12-analytics.png);
 }
 
 .timeline {
